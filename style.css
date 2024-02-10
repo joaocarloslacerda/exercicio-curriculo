@@ -1,0 +1,33 @@
+.principal {
+    text-decoration: none;
+}
+
+#nomeAbaNavegador{
+    text-align: center;
+}
+
+.cabecalho {
+    background-color: rgb(247, 241, 241);
+    margin-left: 42%;
+    margin-right: 42%;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.dadosPessoais{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.contatos{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.formacao{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.experienciasProfissionais{
+    margin-left: 20%;
+    margin-right: 20%;
+}
